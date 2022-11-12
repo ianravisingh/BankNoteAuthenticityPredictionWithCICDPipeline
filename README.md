@@ -1,6 +1,6 @@
 # BankNoteAuthenticityPredictionWithCICDPipeline
 To predict if a bank note is authentic/genuine or not. 
-## Deployed on Heroku (PAS)
+## Deployed on Heroku (PAS) with github action, Docker and CI CD pipleline
 
 # Software and tools requirements
 
@@ -13,5 +13,5 @@ To predict if a bank note is authentic/genuine or not.
 Create a new environment
 
 ```
-conda create -p venv python==3.7 -y
+conda create -p venv python==3.9 -y
 ```
